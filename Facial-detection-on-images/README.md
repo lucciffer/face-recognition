@@ -10,10 +10,10 @@ NOTE: IF YOU INSTALL THE WRONG VERSION OF OPENCV i.e., INSTALL OPENCV FOR PYTHON
 PLEASE VERIFY THE VERSION OF PYTHON YOUR MACHINE IS RUNNING, AND THE INSTALL THE APPROPRIATE VERSION OF THE OPEN-CV LIBRARY.
 
 TO CHECK THE VERSION OF PYTHON ON YOUR MACHINE: python --version
-FOR PYTHON 2.X: a. sudo apt update
+FOR PYTHON 2.X: a. sudo apt update  
                 b. sudo apt install opencv-python
                 
-FOR PYTHON 3.X: a. sudo apt update
+FOR PYTHON 3.X: a. sudo apt update  
                 b. sudo apt install libopencv-dev python3-opencv
                 
                 
