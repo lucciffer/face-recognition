@@ -2,13 +2,9 @@ cmake
 dlib
 face_recognition
 numpy
-opencv-python(for python 2.x)
-python3-opencv(for python 3.x)
+opencv-python
+python3-opencv
 
 
-NOTE: IF YOU INSTALL THE WRONG VERSION OF OPENCV i.e., INSTALL OPENCV FOR PYTHON 2.X WITH PYTHON 3.X COMPILER/INTERPRETER, YOU ARE LIKELY TO RUN INTO LIBRARY OCNFLICT ERROR IN THE IDE DURING THE RUN TIME OF THE PROGRAM. 
-PLEASE VERIFY THE VERSION OF PYTHON YOUR MACHINE IS RUNNING, AND THE INSTALL THE APPROPRIATE VERSION OF THE OPEN-CV LIBRARY.
 
-
-In case of errors(if any), please drop your queries at techh.engine@gmail.com
 
